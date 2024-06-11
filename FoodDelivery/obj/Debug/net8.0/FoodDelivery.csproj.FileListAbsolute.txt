@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\bin\Debug\net8.0\FoodDelivery.exe
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\bin\Debug\net8.0\FoodDelivery.deps.json
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\bin\Debug\net8.0\FoodDelivery.runtimeconfig.json
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\bin\Debug\net8.0\FoodDelivery.dll
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\bin\Debug\net8.0\FoodDelivery.pdb
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.dll
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\refint\FoodDelivery.dll
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.pdb
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\FoodDelivery\FoodDelivery\obj\Debug\net8.0\ref\FoodDelivery.dll
